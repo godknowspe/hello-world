@@ -1,0 +1,1 @@
+python3 run_algo.py -f dual_moving_average.py --symbols AAPL --start 2014-1-1 --end 2015-8-1 -o dma.pickle
